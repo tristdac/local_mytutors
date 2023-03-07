@@ -1,0 +1,25 @@
+#page-local-mytutors-index .card.card-shadow.text-center.border-0.mb-3:hover {
+    box-shadow: 0 4px 8px 2px rgb(0 0 0 / 20%), 0 6px 20px 2px rgb(0 0 0 / 19%) !important;
+    transition: box-shadow 0.3s;
+}
+
+#page-local-mytutors-index .profile-social .fa {
+    font-size: 25px;
+    width: 30px;
+    height: 30px;
+}
+
+#page-local-mytutors-index .bi {
+    font-size: large;
+    padding: 5px;
+}
+
+#page-local-mytutors-index .profile-social {
+    bottom: 8px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
